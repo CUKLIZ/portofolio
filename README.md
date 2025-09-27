@@ -7,7 +7,7 @@ Di sini saya menampilkan proyek-proyek yang sudah saya kerjakan, baik website, a
 
 ## 🔗 Website
 Website portofolio ini bisa diakses di:  
-[https://CUKLIZ.github.io](https://CUKLIZ.github.io)
+[https://cukliz.github.io/portofolio/](https://cukliz.github.io/portofolio/)
 
 ---
 ---
