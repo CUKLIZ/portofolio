@@ -14,7 +14,7 @@ Website portofolio ini bisa diakses di:
 
 ## 🛠️ Teknologi
 - HTML, CSS, JavaScript
-- Bootstrap / Tailwind (kalau pakai)
+- Bootstrap
 - Git & GitHub
 
 ---
