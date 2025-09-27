@@ -1,4 +1,4 @@
-# Portofolio CUKLIZ
+# Portofolio Saya
 
 Selamat datang di portofolio saya! 👋  
 Di sini saya menampilkan proyek-proyek yang sudah saya kerjakan, baik website, aplikasi, maupun desain.
